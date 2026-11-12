@@ -20,6 +20,7 @@ I'm **Joshua Chew Jay Han**, a Computer Science student at the University of Mal
 ### 🚀 Current Projects
 
 - **Nijimap**: An innovative, community-driven event navigation platform designed to solve the frustrations of outdated and inconsistent event directories. Think of it as "Waze for events". It's mobile-friendly, offline-capable and privacy-focused. By leveraging crowdsourced anonymous data from attendees, Nijimap provides real-time insights and enhances the overall event experience, making it easier to navigate and enjoy events.
+- **Edge AI**: On-device computer vision.
 
 ### 🤝 Open to Collaborate
 
